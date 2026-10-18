@@ -27,7 +27,7 @@ I build responsive, accessible, and performant web applications, with a focus on
 
 A responsive job board application built with **Next.js, TypeScript, Material UI, and Redux Toolkit**, with form validation and right-to-left layout support.
 
-[View source code](https://github.com/sanazzahedi18/job-kits-task) · [Live demo](https://job-kits-task.vercel.app/)
+[View source code](https://github.com/sanazzahedi18/job-kits-task) · 
 
 ### 📫 Connect with me
 
